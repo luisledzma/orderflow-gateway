@@ -1,3 +1,9 @@
+// Copyright (c) 2025 LLCode
+// 
+// Licensed under a Commercial License.
+// You may not modify, distribute, or sublicense without prior written permission.
+// See LICENSE.txt for more details.
+
 using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
